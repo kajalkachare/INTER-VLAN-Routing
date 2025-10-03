@@ -65,6 +65,7 @@ Copy code
 Switch(config)# interface fastEthernet 0/24
 Switch(config-if)# switchport mode trunk
 Switch(config-if)# switchport trunk allowed vlan all
+
 📖 Learning Outcomes
 Understand how VLANs segregate broadcast domains.
 
@@ -78,7 +79,5 @@ Practice inter-VLAN communication (using router-on-a-stick or Layer 3 switch).
 Cisco Packet Tracer (Version 7.3 or later recommended)
 
 ✨ Author
-Created by [Your Name] for practicing VLAN configuration in Cisco Packet Tracer.
+Created by [Kajal Kachare] for practicing VLAN configuration in Cisco Packet Tracer.
 
-yaml
-Copy code
