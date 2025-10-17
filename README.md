@@ -1,4 +1,4 @@
-# VLAN (Virtual Local Area Network) - Practical
+# VLAN (Virtual Local Area Network) 
 
 This repository contains a Cisco Packet Tracer project demonstrating the use of **Virtual LANs (VLANs)** in networking.  
 The project includes switches and PCs connected in a topology where VLANs are configured to separate network traffic logically.
